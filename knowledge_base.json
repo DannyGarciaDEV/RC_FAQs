@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "What is Resilient Coders?",
+      "answer": "Resilient Coders is a nonprofit that trains young people of color for careers in tech."
+    },
+    {
+      "question": "Is the bootcamp free?",
+      "answer": "Yes, it is completely free and participants get a stipend."
+    },
+    {
+      "question": "How long is the program?",
+      "answer": "It typically lasts about 14–20 weeks."
+    }
+  ]
+}
